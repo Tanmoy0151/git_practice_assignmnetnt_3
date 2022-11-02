@@ -5,7 +5,6 @@ function PrimeNumber(Number){
             Factor++;
         }
     }
-d
 
     if(Factor==2){
         return true;
@@ -19,4 +18,4 @@ if(answer==true){
     console.log("Prime number");
 }else{
     console.log("Not a prime number");
-}
+
